@@ -1,6 +1,10 @@
 <div class="container">
 <p id="notice"><%= notice %></p>
 
+<%= content_for :title do %>
+  Entries
+<% end %>
+
 <%= render "shared/hero"  %>
 
 <h1>Entries</h1>
