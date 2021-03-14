@@ -1,3 +1,3 @@
-# README
+# FWizzy
 
-Just getting started with Ruby on Rails
+A simple app the helps you eat healthy food 🍽️ 🥩 🥝. Built using Ruby on Rails
